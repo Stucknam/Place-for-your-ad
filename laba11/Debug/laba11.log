@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\c+++\laba11\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Admin\Desktop\c+++\laba11\Source.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  laba11.vcxproj -> C:\Users\Admin\Desktop\c+++\laba11\Debug\laba11.exe
